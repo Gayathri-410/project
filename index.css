@@ -21,7 +21,7 @@ body{
 }
 .container h1{
     color:black;
-    margin_bottom:30px;
+    margin-bottom:30px;
 }    
 .input_box{
     border-radius: 20px;
@@ -62,7 +62,7 @@ hr{
     background: white;
 }
 .image{
-    border_radius:20px;
+    border-radius:20px;
     margin-top: -20px;
     width:70px;
    
